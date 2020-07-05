@@ -20,14 +20,7 @@ int main ()
     cin  >> cliente;
     cout << " ingrese la cantidad de libras: " << endl;
     cin  >> libras;
-<<<<<<< HEAD
-    cout << " ingrese las notas: " << endl;
-    
-       cout << " ingrese las notas: " << endl;
-=======
-    
->>>>>>> fbd629345707dd103a3c42efda8aa86f3a24ad96
-    
+
     switch (opc)
     {
        case 1:
